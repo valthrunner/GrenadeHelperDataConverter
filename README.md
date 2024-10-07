@@ -83,6 +83,8 @@ grenade_helpermap_spots:
 
 Check out how Valthrun's Grenade Helper works in action:
 
-https://github.com/user-attachments/assets/6d458736-616e-4e3c-aa0f-fc4ced9756fb
+https://github.com/user-attachments/assets/b9a5a13f-377e-4b0d-b054-49e4d83098bc
+
+
 
 
